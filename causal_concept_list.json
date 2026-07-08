@@ -1,0 +1,12 @@
+[
+    {
+        "instance_prompt":     "photo of a s* cat",
+        "class_prompt":         "a s* cat",
+        "instance_data_dir":    "/home/admin/LCY/AIGC/Textual-Localization-main/data_1/cat"
+    },
+    {
+        "instance_prompt":     "photo of a v* wooden pot",
+        "class_prompt":         "a v* wooden pot",
+        "instance_data_dir":    "/home/admin/LCY/AIGC/Textual-Localization-main/data_1/wooden_pot"
+    }
+]
